@@ -1,6 +1,14 @@
-<img src="download.jpg">
+<img src="download.jpg" >
   <h1>Hello, I'm Swandy Sianturi 👋</h1>
   
+  <a href="https://id.linkedin.com/in/swandy-sianturi-935255312" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/classicalwan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <br><br>
+
   [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SwandyXtry.SwandyXtry)](https://github.com/SwandyXtry) 
   [![GitHub followers](https://img.shields.io/github/followers/SwandyXtry.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SwandyXtry?tab=followers)
 
@@ -12,7 +20,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate Software Engineering student focused on building impactful digital solutions. I enjoy bridging the gap between complex problems and efficient code.
+I am a passionate Software Engineering student focused on building impactful digital solutions. I enjoy bridging the gap between complex problems and efficient code. Outside of coding, I spend my time exploring melodies on my guitar.
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -38,4 +46,7 @@ I am a passionate Software Engineering student focused on building impactful dig
 
 <p align="center">
   "Turning coffee into code and ideas into reality."
+  <br><br>
+  <b>Connect with me:</b><br>
+  <a href="https://www.instagram.com/classicalwan/">Instagram</a> • <a href="https://id.linkedin.com/in/swandy-sianturi-935255312">LinkedIn</a>
 </p>
