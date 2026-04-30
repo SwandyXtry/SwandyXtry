@@ -1,5 +1,6 @@
-<img src="download.jpg" >
-  <h1>Hello, I'm Swandy Sianturi 👋</h1>
+<div align="center">
+  <img src="download.jpg" width="150" style="border-radius: 50%;">
+  <h1>Halo, Saya Swandy Sianturi 👋</h1>
   
   <a href="https://id.linkedin.com/in/swandy-sianturi-935255312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -13,14 +14,14 @@
   [![GitHub followers](https://img.shields.io/github/followers/SwandyXtry.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SwandyXtry?tab=followers)
 
   <p align="center">
-    <strong>Software Engineering Student at Polibatam University</strong>
+    <strong>Mahasiswa Rekayasa Perangkat Lunak di Politeknik Negeri Batam</strong>
   </p>
 </div>
 
 ---
 
-### 🚀 About Me
-I am a passionate Software Engineering student focused on building impactful digital solutions. I enjoy bridging the gap between complex problems and efficient code. Outside of coding, I spend my time exploring melodies on my guitar.
+### 🚀 Tentang Saya
+Saya adalah mahasiswa Teknik Informatika yang fokus pada pengembangan solusi digital. Saya senang memecahkan masalah kompleks lewat kode yang efisien, terutama di bagian backend. Kalau lagi nggak ngoding, biasanya saya main gitar buat nyari inspirasi.
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -30,11 +31,11 @@ I am a passionate Software Engineering student focused on building impactful dig
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
-### 📂 Featured Projects
-| Project | Description |
+### 📂 Project Pilihan
+| Project | Deskripsi |
 | :--- | :--- |
-| **Digital Citizen Document** | A web platform to modernize public services, allowing residents to submit official document requests online efficiently. |
-| **Curriculum Info System** | A centralized system designed to manage academic curriculum data, course mapping, and competency standards. |
+| **Dokumen Warga Digital** | Platform web untuk modernisasi layanan publik, memudahkan warga mengurus dokumen secara online dengan cepat. |
+| **Sistem Informasi Kurikulum** | Sistem terpusat untuk manajemen data kurikulum akademik, pemetaan mata kuliah, dan standar kompetensi. |
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -45,8 +46,8 @@ I am a passionate Software Engineering student focused on building impactful dig
 ---
 
 <p align="center">
-  "Turning coffee into code and ideas into reality."
+  "Mengubah kopi menjadi kode dan ide menjadi kenyataan."
   <br><br>
-  <b>Connect with me:</b><br>
+  <b>Mari terhubung:</b><br>
   <a href="https://www.instagram.com/classicalwan/">Instagram</a> • <a href="https://id.linkedin.com/in/swandy-sianturi-935255312">LinkedIn</a>
 </p>
