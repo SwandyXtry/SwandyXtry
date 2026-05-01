@@ -36,16 +36,17 @@ I am a passionate Software Engineering student focused on building impactful dig
 | **Digital Citizen Document** | A web platform to modernize public services, allowing residents to submit official document requests online efficiently. |
 | **Curriculum Info System** | A centralized system designed to manage academic curriculum data, course mapping, and competency standards. |
 
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwandyXtry&show_icons=true&theme=radical&locale=id" alt="Swandy Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwandyXtry&layout=compact&theme=radical&locale=id" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwandyXtry&show_icons=true&theme=radical&cache_seconds=1800" alt="Swandy Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwandyXtry&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs"/>
 </p>
 
 ---
 
 <p align="center">
-  "Turning coffee into code and ideas into reality."
+  "it is what it is."
   <br><br>
   <b>Connect with me:</b><br>
   <a href="https://www.instagram.com/classicalwan/">Instagram</a> • <a href="https://id.linkedin.com/in/swandy-sianturi-935255312">LinkedIn</a>
