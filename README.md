@@ -39,7 +39,7 @@ I am a passionate Software Engineering student focused on building impactful dig
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwandyXtry&show_icons=true&theme=radical&cache_seconds=1800" alt="Swandy Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwandyXtry&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwandyXtry&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 ---
