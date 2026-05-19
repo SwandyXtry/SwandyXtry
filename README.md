@@ -41,11 +41,13 @@ I am a passionate Software Engineering student focused on building impactful dig
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SwandyXtry&show_icons=true&theme=radical&rank_icon=github" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SwandyXtry&show_icons=true&theme=radical" 
+    height="165"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwandyXtry&layout=compact&theme=radical" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwandyXtry&layout=compact&theme=radical" 
+    height="165"
   />
 </p>
 
