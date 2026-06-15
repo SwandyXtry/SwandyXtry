@@ -1,4 +1,4 @@
-<img src="download.jpg" >
+
   <h1>Hello, I'm Swandy Sianturi 👋</h1>
   
   <a href="https://id.linkedin.com/in/swandy-sianturi-935255312" target="_blank">
