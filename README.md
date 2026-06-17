@@ -44,12 +44,20 @@ I am a passionate Software Engineering student focused on building impactful dig
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=SwandyXtry&show_icons=true&theme=radical" 
     height="165"
   />
-
+<br>
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwandyXtry&layout=compact&theme=radical" 
     height="165"
   />
 </p>
+
+
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=SwandyXtry&theme=react&hide_border=true" width="49.5%" alt="GitHub Streak" />
+</p>
+
 
 ---
 
