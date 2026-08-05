@@ -1,5 +1,5 @@
 
-  <h1>Hello, I'm Swandy Sianturi 👋</h1>
+  <h1>Hello, I'm Swandy 👋</h1>
   
   <a href="https://id.linkedin.com/in/swandy-sianturi-935255312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,8 +19,7 @@
 
 ---
 
-### 🚀 About Me
-I am a passionate Software Engineering student focused on building impactful digital solutions. I enjoy bridging the gap between complex problems and efficient code. Outside of coding, I spend my time exploring melodies on my guitar.
+
 
 ### 🛠️ Tech Stack
 <p align="left">
