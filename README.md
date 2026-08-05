@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  "it is what it is."
+ 
   <br><br>
   <b>Connect with me:</b><br>
   <a href="https://www.instagram.com/classicalwan/">Instagram</a> • <a href="https://id.linkedin.com/in/swandy-sianturi-935255312">LinkedIn</a>
