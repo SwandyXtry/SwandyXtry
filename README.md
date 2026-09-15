@@ -4,7 +4,7 @@
 
 <img src="https://media1.tenor.com/m/RIqZ9UafTlAAAAAC/gojo-gojo-satoru.gif" width="450">
   
-  <br><br>
+  <br>
 
   <a href="https://github.com/SwandyXtry">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=SwandyXtry.SwandyXtry" alt="Visitor">
