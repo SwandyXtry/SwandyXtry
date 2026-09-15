@@ -1,14 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=435&lines=Hello%2C+I'm+Swandy+%F0%9F%90%B6;Software+Engineering+Student" alt="Typing SVG" />
 
-  <br><br>
 
-  <a href="https://id.linkedin.com/in/swandy-sianturi-935255312" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/classicalwan/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<img src="https://media1.tenor.com/m/RIqZ9UafTlAAAAAC/gojo-gojo-satoru.gif" width="450">
   
   <br><br>
 
@@ -52,5 +46,9 @@
 
 <p align="center">
   <b>Connect with me:</b><br>
-  <a href="https://www.instagram.com/classicalwan/">Instagram</a> • <a href="https://id.linkedin.com/in/swandy-sianturi-935255312">LinkedIn</a>
-</p>
+  <a href="https://id.linkedin.com/in/swandy-sianturi-935255312" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/classicalwan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
