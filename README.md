@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=435&lines=Hello%2C+I'm+Swandy+%F0%9F%90%B6;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=435&lines=Hello%2C+I'm+Swandy+;Software+Engineering+Student" alt="Typing SVG" />
 
 
 <img src="https://media1.tenor.com/m/RIqZ9UafTlAAAAAC/gojo-gojo-satoru.gif" width="450">
